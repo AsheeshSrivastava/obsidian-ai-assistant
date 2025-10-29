@@ -2,7 +2,7 @@
 ===============================================================================
 OBSIDIAN AI LEARNING ASSISTANT - MAIN APPLICATION
 ===============================================================================
-Part of Aethalgard Academy™ by Quest & Crossfire™
+Part of Aethelgard Academy™ by QUEST AND CROSSFIRE™
 
 Purpose: This is the main application file that creates the web interface
          and connects everything together.
@@ -19,13 +19,13 @@ How it works:
     - OpenAI or Hugging Face API provides the AI responses
     - Our knowledge base gives context to the AI
 
-Copyright (c) 2025 Quest & Crossfire™
+Copyright (c) 2025 QUEST AND CROSSFIRE™
 Licensed under GPL-3.0 - see LICENSE file for details
-Quest & Crossfire™ and Aethalgard Academy™ are trademarks. Trademark filings in process.
+QUEST AND CROSSFIRE™ and Aethelgard Academy™ are trademarks. Trademark filings in process.
 
 Built using skills from OutSkill AI Engineering Bootcamp 2025.
 
-Author: Quest & Crossfire™ - Educational Python Project
+Author: QUEST AND CROSSFIRE™ - Educational Python Project
 Date: 2025-10-30
 ===============================================================================
 """
@@ -75,7 +75,7 @@ from project_manager import ProjectManager
 # Configure the Streamlit page
 # This MUST be here, right after imports!
 st.set_page_config(
-    page_title="Obsidian AI Assistant | Aethalgard Academy™",  # Shows in browser tab
+    page_title="Obsidian AI Assistant | Aethelgard Academy™",  # Shows in browser tab
     page_icon="🧠",                       # Emoji shown in browser tab
     layout="wide",                         # Use full screen width (not centered)
 )
@@ -203,7 +203,7 @@ def setup_page():
     # Add a description below the title
     # st.markdown() lets us use formatting (bold, italic, etc.)
     st.markdown("""
-    **Welcome to Aethalgard Academy™!** I'm here to help you master Obsidian, the powerful note-taking app.
+    **Welcome to Aethelgard Academy™!** I'm here to help you master Obsidian, the powerful note-taking app.
 
     Ask me about:
     - 📊 **DataView** - Query your notes like a database
@@ -215,7 +215,7 @@ def setup_page():
     **Tip:** Create different projects for different learning topics!
 
     ---
-    *Part of [Aethalgard Academy™](https://academy.questandcrossfire.com) by [Quest & Crossfire™](https://questandcrossfire.com)*
+    *Part of [Aethelgard Academy™](https://academy.questandcrossfire.com) by [QUEST AND CROSSFIRE™](https://questandcrossfire.com)*
     """)
 
     # Add a horizontal line to separate header from content

@@ -1,6 +1,6 @@
 # 🧠 Obsidian AI Learning Assistant
 
-**Part of [Aethalgard Academy™](https://academy.questandcrossfire.com) by [Quest & Crossfire™](https://questandcrossfire.com)**
+**Part of [Aethelgard Academy™](https://academy.questandcrossfire.com) by [QUEST AND CROSSFIRE™](https://questandcrossfire.com)**
 
 An AI-powered chat assistant that helps you master [Obsidian](https://obsidian.md), the powerful note-taking app. Built as an educational Python project to teach Streamlit, API integration, and clean code practices.
 
@@ -215,14 +215,14 @@ This project is licensed under the **GPL-3.0 License** - see the [LICENSE](LICEN
 - ✅ You can use, modify, and distribute this code
 - ✅ You can create commercial applications
 - ⚠️ You must keep the same GPL-3.0 license
-- ⚠️ You must credit Quest & Crossfire™
-- ⚠️ You cannot use Quest & Crossfire™ or Aethalgard Academy™ branding
+- ⚠️ You must credit QUEST AND CROSSFIRE™
+- ⚠️ You cannot use QUEST AND CROSSFIRE™ or Aethelgard Academy™ branding
 
 ---
 
 ## 🏷️ Trademark Notice
 
-**Quest & Crossfire™** and **Aethalgard Academy™** are trademarks.
+**QUEST AND CROSSFIRE™** and **Aethelgard Academy™** are trademarks.
 Trademark filings in process.
 
 While this code is open source (GPL-3.0), the brand names are protected trademarks. Please use your own branding when creating derivatives.
@@ -231,7 +231,7 @@ While this code is open source (GPL-3.0), the brand names are protected trademar
 
 ## 💡 Related Projects
 
-Check out our other courses at **[Aethalgard Academy™](https://academy.questandcrossfire.com)**:
+Check out our other courses at **[Aethelgard Academy™](https://academy.questandcrossfire.com)**:
 - 🐍 **Python AI Engineering** - Build AI-powered applications
 - 🧠 **Obsidian Mastery** - Advanced note-taking workflows
 
@@ -251,13 +251,13 @@ Check out our other courses at **[Aethalgard Academy™](https://academy.questan
 - AI powered by [OpenAI](https://openai.com/) and [Hugging Face](https://huggingface.co/)
 - Deep Research methodology inspired by [Gemini](https://gemini.google.com/) and [Claude](https://claude.ai/)
 - Skills developed through [OutSkill AI Engineering Bootcamp 2025](https://outskill.com/)
-- Created by [Quest & Crossfire™](https://questandcrossfire.com)
+- Created by [QUEST AND CROSSFIRE™](https://questandcrossfire.com)
 
 ---
 
-**Made with ❤️ by Quest & Crossfire™**
+**Made with ❤️ by QUEST AND CROSSFIRE™**
 *Small Fixes, Big Clarity*
 
 ---
 
-© 2025 Quest & Crossfire™. Licensed under GPL-3.0.
+© 2025 QUEST AND CROSSFIRE™. Licensed under GPL-3.0.
