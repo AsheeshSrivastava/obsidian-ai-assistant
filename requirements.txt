@@ -1,0 +1,32 @@
+# ============================================
+# PYTHON DEPENDENCIES (REQUIRED PACKAGES)
+# ============================================
+# This file tells Python which external libraries our app needs.
+# Think of it like a shopping list for your Python environment.
+#
+# To install all these packages, run this command in your terminal:
+#     pip install -r requirements.txt
+#
+# What each package does:
+# ============================================
+
+# Streamlit - Creates the web interface
+# This is the main framework that turns Python code into a web app
+# Version 1.28+ has the chat interface features we use
+streamlit>=1.28.0
+
+# Requests - Makes HTTP requests to APIs
+# We use this to communicate with the Hugging Face AI service
+# It's like a phone that lets our app call other services
+requests>=2.31.0
+
+# OpenAI - Official OpenAI API client
+# We use this to communicate with OpenAI's ChatGPT service
+# This gives us access to GPT-3.5 and GPT-4 models
+openai>=1.0.0
+
+# NOTE: Python's built-in libraries handle everything else:
+# - json (for data formatting) - built into Python
+# - datetime (for timestamps) - built into Python
+# - copy (for duplicating data) - built into Python
+# - time (for delays) - built into Python
