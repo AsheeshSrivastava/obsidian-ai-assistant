@@ -189,6 +189,9 @@ obsidian-ai-assistant/
 
 This is an open-source educational project! Contributions are welcome.
 
+**Built using skills from:**
+This project was created by applying concepts learned in the OutSkill AI Engineering Bootcamp 2025, demonstrating practical application of AI integration, Streamlit development, and production-ready code practices.
+
 **Ways to contribute:**
 - Fix typos or improve code comments
 - Add more Obsidian examples to the knowledge base
@@ -220,7 +223,7 @@ This project is licensed under the **GPL-3.0 License** - see the [LICENSE](LICEN
 ## 🏷️ Trademark Notice
 
 **Quest & Crossfire™** and **Aethalgard Academy™** are trademarks.
-Trademark applications pending.
+Trademark filings in process.
 
 While this code is open source (GPL-3.0), the brand names are protected trademarks. Please use your own branding when creating derivatives.
 
@@ -247,6 +250,7 @@ Check out our other courses at **[Aethalgard Academy™](https://academy.questan
 - Built with [Streamlit](https://streamlit.io/)
 - AI powered by [OpenAI](https://openai.com/) and [Hugging Face](https://huggingface.co/)
 - Deep Research methodology inspired by [Gemini](https://gemini.google.com/) and [Claude](https://claude.ai/)
+- Skills developed through [OutSkill AI Engineering Bootcamp 2025](https://outskill.com/)
 - Created by [Quest & Crossfire™](https://questandcrossfire.com)
 
 ---

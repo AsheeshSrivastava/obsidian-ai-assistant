@@ -21,7 +21,9 @@ How it works:
 
 Copyright (c) 2025 Quest & Crossfire™
 Licensed under GPL-3.0 - see LICENSE file for details
-Quest & Crossfire™ and Aethalgard Academy™ are trademarks. Applications pending.
+Quest & Crossfire™ and Aethalgard Academy™ are trademarks. Trademark filings in process.
+
+Built using skills from OutSkill AI Engineering Bootcamp 2025.
 
 Author: Quest & Crossfire™ - Educational Python Project
 Date: 2025-10-30
