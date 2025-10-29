@@ -220,7 +220,7 @@ This project is licensed under the **GPL-3.0 License** - see the [LICENSE](LICEN
 ## 🏷️ Trademark Notice
 
 **Quest & Crossfire™** and **Aethalgard Academy™** are trademarks.
-Trademark applications pending.
+Trademark registrations are pending.
 
 While this code is open source (GPL-3.0), the brand names are protected trademarks. Please use your own branding when creating derivatives.
 
