@@ -4,7 +4,7 @@
 
 An AI-powered chat assistant that helps you master [Obsidian](https://obsidian.md), the powerful note-taking app. Built as an educational Python project to teach Streamlit, API integration, and clean code practices.
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
 
@@ -177,7 +177,7 @@ obsidian-ai-assistant/
 ├── obsidian_knowledge.py       # Obsidian knowledge base
 ├── project_manager.py          # Project/conversation management
 ├── requirements.txt            # Python dependencies
-├── LICENSE                     # GPL-3.0 license
+├── LICENSE                     # AGPL-3.0 license
 ├── README.md                   # This file
 └── .streamlit/
     └── secrets.toml.example    # API key template
@@ -209,23 +209,31 @@ This project was created by applying concepts learned in the OutSkill AI Enginee
 
 ## 📄 License
 
-This project is licensed under the **GPL-3.0 License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **AGPL-3.0 License** - see the [LICENSE](LICENSE) file for details.
 
 **What this means:**
 - ✅ You can use, modify, and distribute this code
 - ✅ You can create commercial applications
-- ⚠️ You must keep the same GPL-3.0 license
+- ✅ **Network use requires source disclosure** (AGPL requirement)
+- ⚠️ You must keep the same AGPL-3.0 license
 - ⚠️ You must credit QUEST AND CROSSFIRE™
 - ⚠️ You cannot use QUEST AND CROSSFIRE™ or Aethelgard Academy™ branding
+
+### Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on:
+- Development setup
+- Code standards
+- Pull request process
+- Testing requirements
 
 ---
 
 ## 🏷️ Trademark Notice
 
-**QUEST AND CROSSFIRE™** and **Aethelgard Academy™** are trademarks.
-Trademark filings in process.
+**QUEST AND CROSSFIRE™** and **Aethelgard Academy™** are trademarks (Filed - awaiting certification).
 
-While this code is open source (GPL-3.0), the brand names are protected trademarks. Please use your own branding when creating derivatives.
+While this code is open source (AGPL-3.0), the brand names are protected trademarks. Please use your own branding when creating derivatives.
 
 ---
 
@@ -260,4 +268,4 @@ Check out our other courses at **[Aethelgard Academy™](https://academy.questan
 
 ---
 
-© 2025 QUEST AND CROSSFIRE™. Licensed under GPL-3.0.
+© 2025 QUEST AND CROSSFIRE™. Licensed under AGPL-3.0.
